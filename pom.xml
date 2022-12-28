@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>de.humi.libs</groupId>
+    <artifactId>libs-parent</artifactId>
+    <version>0.0.1</version>
+
+    <modules></modules>
+
+</project>
