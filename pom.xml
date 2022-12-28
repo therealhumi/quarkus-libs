@@ -4,7 +4,11 @@
     <groupId>de.humi.libs</groupId>
     <artifactId>libs-parent</artifactId>
     <version>0.0.1</version>
-
-    <modules></modules>
+    <packaging>pom</packaging>
+    <modules>
+        <module>extensions</module>
+        <module>bom</module>
+        <module>parent</module>
+    </modules>
 
 </project>
